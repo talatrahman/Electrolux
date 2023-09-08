@@ -1,1 +1,1 @@
-# Electrolux-Home
+# Electrolux
